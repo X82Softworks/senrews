@@ -1,0 +1,12 @@
+/*.MD
+/*.md
+.*
+LICENCE
+npm-debug.log
+/docs/**
+/src/**
+/scripts/**
+/examples/**
+/test/**
+/tests/**
+/config/**

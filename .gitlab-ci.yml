@@ -1,0 +1,5 @@
+include:
+    - project: 'x82.io/delivery-engineering/gitlab-tooling'
+      ref: master
+      file: '/pipelines/nodejsOpenSource.yml'
+      
